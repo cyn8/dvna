@@ -1,9 +1,2 @@
 version: 0.1
 ironSAST:
- nodejs:
-  custom_ignore_extensions:
-  - .jsignore
-  custom_ignore_files:
-  - badAppHandler.js
-  custom_ignore_directory:
-  - test
